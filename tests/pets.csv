@@ -1,0 +1,11 @@
+ID,pet,gender,age,height(cm)
+1,dog,1,8,50
+2,cat,0,6,30
+3,cat,1,3,33
+4,bird,1,7,16
+5,dog,1,8,55
+6,bird,1,3,999999
+7,rabbit,1,11,-1
+8,bird,0,,20
+9,cat,0,9,33
+10,cat,0,,21.5

@@ -1,0 +1,7 @@
+MANIFEST
+
+__pycache__
+
+dist/
+
+.vscode
