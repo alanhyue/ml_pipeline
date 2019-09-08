@@ -2,6 +2,11 @@
 
 An intuitive, super easy-to-use machine learning pipeline framework for transforming DataFrames.
 
+# Install
+
+```
+pip install ml-pipeline
+```
 
 # Easy-to-use
 
